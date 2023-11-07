@@ -8,7 +8,7 @@ int main()
 	scanf("%f",&b);
 	da=44*b/100;
 	ta=(8*b)/100;
-	printf("Enter the option of your region\n1.Metropolitan		2.Tier 1	3.Tier 2	4.Tier 3");
+	printf("Enter the option of your region\n1.Metropolitan		2.Tier 1	3.Tier 2	4.Tier 3\n");
 	scanf("%d",&a);
 	if(a==1)
 		hra=(27*b)/100;

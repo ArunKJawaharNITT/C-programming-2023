@@ -3,7 +3,7 @@
 int main()
 {
 	float a;
-	float p=22/7;
+	float p=3.14;
 	printf("Enter radius of the circle\n");
 	scanf("%f",&a);
 	a=p*a*a;

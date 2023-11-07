@@ -3,7 +3,7 @@ int main()
 {
 	int n;
 	int k=0;
-	printf("Enter the no of columns\n");
+	printf("Enter the no of rows\n");
 	scanf("%d",&n);
 	for(int i=0;i<n;i++)
 	{
